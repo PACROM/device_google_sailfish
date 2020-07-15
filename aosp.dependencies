@@ -1,0 +1,8 @@
+[
+  {
+    "repository"  : "PACROM/device_google_marlin",
+    "target_path" : "device/google/marlin",
+    "branch"      : "ten",
+    "remote"      : "github"
+  }
+]
