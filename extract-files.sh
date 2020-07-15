@@ -1,1 +1,0 @@
-../marlin/sailfish/extract-files.sh
